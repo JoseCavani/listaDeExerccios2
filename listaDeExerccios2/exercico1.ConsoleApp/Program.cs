@@ -1,5 +1,5 @@
 ﻿using System;
-
+/
 namespace exercicio2.ConsoleApp1
 {
     internal class Program
